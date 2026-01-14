@@ -1,0 +1,13 @@
+.card {
+  border: 0;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.06);
+  border-radius: 14px;
+}
+.section-title {
+  font-weight: 800;
+}
+.result-box {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
